@@ -1,0 +1,8 @@
+{
+  "blueprints": [
+    {
+      "invoke": "allBrandsInfo.pr",
+      "write_to": "allBrandsInfo.txt"
+    }
+  ]
+}
