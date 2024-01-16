@@ -1,0 +1,5 @@
+{{ "/* VIGO - colors */" }}
+{[ let colorTokens = ds.tokensByType("Color", "3e9cc4d7-a217-4562-9543-e291130e324d") /]}
+{[ for token in colorTokens ]}
+{{ token.value.hex }}
+{[/]}

@@ -3,6 +3,18 @@
     {
       "invoke": "allBrandsInfo.pr",
       "write_to": "allBrandsInfo.txt"
+    },
+    {
+      "invoke": "cpp_colors.pr",
+      "write_to": "cpp/colors.sass"
+    },
+    {
+      "invoke": "koop_colors.pr",
+      "write_to": "koop/colors.sass"
+    },
+    {
+      "invoke": "vigo_colors.pr",
+      "write_to": "vigo/colors.sass"
     }
   ]
 }
